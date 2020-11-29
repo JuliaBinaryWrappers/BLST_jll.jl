@@ -1,0 +1,52 @@
+[[BLST]]
+arch = "aarch64"
+git-tree-sha1 = "a23fcddc12b880b86b3012f309b95b17be8de372"
+libc = "glibc"
+os = "linux"
+
+    [[BLST.download]]
+    sha256 = "b3060e9410756dd917bc53bbd67198db8d2d4b8706a6d447be0cbf5cee7f6e57"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.aarch64-linux-gnu.tar.gz"
+[[BLST]]
+arch = "aarch64"
+git-tree-sha1 = "23efd450395997c908d4931b1cbd2d1e1947346a"
+libc = "musl"
+os = "linux"
+
+    [[BLST.download]]
+    sha256 = "7220700eb6b9995a28c992013a1fead391a64ad1f5d645e8fb479df9c1705901"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.aarch64-linux-musl.tar.gz"
+[[BLST]]
+arch = "x86_64"
+git-tree-sha1 = "591f4c296125d284fc92fe752e7b4e126294e5b4"
+os = "macos"
+
+    [[BLST.download]]
+    sha256 = "52736b82f277ad389b5543b07f1906d263b656eb622d87b869c363365e6133c3"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-apple-darwin.tar.gz"
+[[BLST]]
+arch = "x86_64"
+git-tree-sha1 = "7f994283219cc5bd1edff2add65695ac150cc3d3"
+libc = "glibc"
+os = "linux"
+
+    [[BLST.download]]
+    sha256 = "406bc259ac97a90c06bbdf443af9116af31bd24f79cbb32889fc1186b0a4026d"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-linux-gnu.tar.gz"
+[[BLST]]
+arch = "x86_64"
+git-tree-sha1 = "ef8082b0b0e3bde4ec5720e33adf59fb15b8962d"
+libc = "musl"
+os = "linux"
+
+    [[BLST.download]]
+    sha256 = "cc6646aee41ef72235266ed4f1227ca963d232831824e170244fd46236c4bf1c"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-linux-musl.tar.gz"
+[[BLST]]
+arch = "x86_64"
+git-tree-sha1 = "c7e303a0203b63676dcf594304273419b1d78e07"
+os = "windows"
+
+    [[BLST.download]]
+    sha256 = "277c44891255e4bbc36b4e4b653af37bf8f30ad13036128498c1b2e284ab6b75"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-w64-mingw32.tar.gz"
