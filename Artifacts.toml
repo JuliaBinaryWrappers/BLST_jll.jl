@@ -1,52 +1,52 @@
 [[BLST]]
 arch = "aarch64"
-git-tree-sha1 = "a23fcddc12b880b86b3012f309b95b17be8de372"
+git-tree-sha1 = "b10667d3be3a67b8615f60295687169233a9c389"
 libc = "glibc"
 os = "linux"
 
     [[BLST.download]]
-    sha256 = "b3060e9410756dd917bc53bbd67198db8d2d4b8706a6d447be0cbf5cee7f6e57"
-    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "6fe87f7829b5fce56c75956fb53f14a7fad61c53aff1d52ed453e7a62caae57b"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.2+0/BLST.v0.3.2.aarch64-linux-gnu.tar.gz"
 [[BLST]]
 arch = "aarch64"
-git-tree-sha1 = "23efd450395997c908d4931b1cbd2d1e1947346a"
+git-tree-sha1 = "f42a44030750f4d5b79ea4ac34edaec1c0fa7982"
 libc = "musl"
 os = "linux"
 
     [[BLST.download]]
-    sha256 = "7220700eb6b9995a28c992013a1fead391a64ad1f5d645e8fb479df9c1705901"
-    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.aarch64-linux-musl.tar.gz"
+    sha256 = "854439a63bf379a0bc0bfb62b9fc0966c76ce74019bc72f7aa54e54e10c675e4"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.2+0/BLST.v0.3.2.aarch64-linux-musl.tar.gz"
 [[BLST]]
 arch = "x86_64"
-git-tree-sha1 = "591f4c296125d284fc92fe752e7b4e126294e5b4"
+git-tree-sha1 = "7f777b89627411eae77aacaf36ef40e0d9a32bf6"
 os = "macos"
 
     [[BLST.download]]
-    sha256 = "52736b82f277ad389b5543b07f1906d263b656eb622d87b869c363365e6133c3"
-    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "c7e29cfcc5a10375a05ab5989bc9d7084e2714b2ff528af07b2f289bfc74743f"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.2+0/BLST.v0.3.2.x86_64-apple-darwin.tar.gz"
 [[BLST]]
 arch = "x86_64"
-git-tree-sha1 = "7f994283219cc5bd1edff2add65695ac150cc3d3"
+git-tree-sha1 = "e4c4395fd027ab3f4fdb320d83a87bffbc61bd93"
 libc = "glibc"
 os = "linux"
 
     [[BLST.download]]
-    sha256 = "406bc259ac97a90c06bbdf443af9116af31bd24f79cbb32889fc1186b0a4026d"
-    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "06f95144bce839310d9f27aedf3d38c6fa3026a2fb3506443a670b8d97badcd9"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.2+0/BLST.v0.3.2.x86_64-linux-gnu.tar.gz"
 [[BLST]]
 arch = "x86_64"
-git-tree-sha1 = "ef8082b0b0e3bde4ec5720e33adf59fb15b8962d"
+git-tree-sha1 = "e42e88a08071cf04c6c0179da0c8c653ce5e2031"
 libc = "musl"
 os = "linux"
 
     [[BLST.download]]
-    sha256 = "cc6646aee41ef72235266ed4f1227ca963d232831824e170244fd46236c4bf1c"
-    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-linux-musl.tar.gz"
+    sha256 = "96a27181658f69e7ccbb908685cfc1cdd69e36a3ecda82cff1144606aba505f1"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.2+0/BLST.v0.3.2.x86_64-linux-musl.tar.gz"
 [[BLST]]
 arch = "x86_64"
-git-tree-sha1 = "c7e303a0203b63676dcf594304273419b1d78e07"
+git-tree-sha1 = "980a9669fd2784c7d366957d757fc8c2608987b9"
 os = "windows"
 
     [[BLST.download]]
-    sha256 = "277c44891255e4bbc36b4e4b653af37bf8f30ad13036128498c1b2e284ab6b75"
-    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.1+0/BLST.v0.3.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "17abd6936620b4197a35caccfc316685748b2077e7921944795fb0a9c805c43c"
+    url = "https://github.com/JuliaBinaryWrappers/BLST_jll.jl/releases/download/BLST-v0.3.2+0/BLST.v0.3.2.x86_64-w64-mingw32.tar.gz"
